@@ -6,10 +6,10 @@ MSc Data Science student at **ETH Zürich**, previously Data Scientist at Bank S
 
 ## 🔬 Currently Researching
 
-- **Synthetic Environments with Verifiable Rewards for Financial LLMs** — ETH AI Center × Apertus. Designing training environments with verifiable reward signals to improve reasoning in finance-domain LLMs.
-- **Pairwise LLM-as-a-Judge in Finance** — Law, Economics, and Data Science Group (Prof. Elliott Ash, ETH Zürich). Source-grounded benchmarks for how LLMs handle compliance reasoning across European financial regulations.
-- **Relational Reasoning in Vision-Language Models** *(completed Jan 2026)* — Disentangling genuine visual reasoning from language shortcuts using controlled synthetic datasets.
-
+- **Synthetic Environments with Verifiable Rewards for Financial LLMs** — ETH AI Center × Apertus
+- **Pairwise LLM-as-a-Judge in Finance** — Law, Economics, and Data Science Group
+- **Relational Reasoning in Vision-Language Models** *(completed Jan 2026)*
+  
 ---
 
 ## 🛠 What I Work With
